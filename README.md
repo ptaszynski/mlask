@@ -16,7 +16,9 @@ Finally, ML-Ask implements Russell’s two dimensional model of affect. The mode
 [INSTALLATION]
 
 1. Unpack the system repository (zipped file).
+
 2. Make sure you are using the system under Linux. Performance under Windows and Mac is still not confirmed.
+
 3. Install all dependencies:
 
 3.1 The Perl Programming Language (www.perl.org)
