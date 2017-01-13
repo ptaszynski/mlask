@@ -31,8 +31,8 @@ Finally, ML-Ask implements Russell’s two dimensional model of affect. The mode
 
 [USAGE]
 
-To use on standard input, launch in command line as: "perl mlask.pl"
-To use on files, launch in command line as: "perl mlask.pl input_file.txt > output_file.txt"
+To use on standard input, launch in command line as: "perl mlask[version_number].pl" or "perl mlask[version_number]-simple.pl"
+To use on files, launch in command line as: "perl mlask[version_number].pl input_file.txt > output_file.txt" (or similarly with "-simple").
 Using -h or -help option will diplay help message and exit the program.
 
 [COPYRIGHTS AND CONTRIBUTIONS]
