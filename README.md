@@ -49,9 +49,22 @@ Kenji Araki - boss of the Araki Lab at Hokkaido Univeristy Japan, in which works
 
 The ML-Ask system is described in detail in papers below. When using ML-Ask please add reference to either of these papers (or both if you like):
 
+Original initial paper:
+
 Michal Ptaszynski, Pawel Dybala, Rafal Rzepka and Kenji Araki, “Affecting Corpora: Experiments with Automatic Affect Annotation System - A Case Study of the 2channel Forum -”, In Proceedings of The Conference of the Pacific Association for Computational Linguistics (PACLING-09), September 1-4, 2009, Hokkaido University, Sapporo, Japan, pp. 223-228.
 
-Michal Ptaszynski, Pawel Dybala, Wenhan Shi, Rafal Rzepka and Kenji Araki, “A System for Affect Analysis of Utterances in Japanese Supported with Web Mining”, Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, Vol. 21, No. 2 (April), pp. 30-49 (194-213), 2009.
+Final release of the system:
+
+Ptaszynski, M., Dybala, P., Rzepka, R., Araki, K., & Masui, F. (2017). ML-Ask: Open source affect analysis software for textual input in Japanese. Journal of Open Research Software, 5(1), 16-16.
+https://doi.org/10.5334/jors.149
+https://openresearchsoftware.metajnl.com/articles/10.5334/jors.149
+
+Final release of emotion expression dictionary expanded using scientifically backed methods:
+
+Wang, L., Isomura, S., Ptaszynski, M., Dybala, P., Urabe, Y., Rzepka, R., & Masui, F. (2024). The Limits of Words: Expanding a Word-Based Emotion Analysis System with Multiple Emotion Dictionaries and the Automatic Extraction of Emotive Expressions. Applied Sciences, 14(11), 4439.
+https://doi.org/10.3390/app14114439
+https://www.mdpi.com/2076-3417/14/11/4439
+
 
 [BUGS AND COMMENTS]
 
